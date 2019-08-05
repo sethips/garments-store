@@ -2,10 +2,13 @@
   "name": "Garments4Her",
   "version": "0.1.0",
   "description": "Women's Garments Online Store",
+  "homepage": "https://abhinavsagar.github.io/Garments4Her/",
   "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server --config=config/webpack.dev.js",
-    "build": "NODE_ENV=production webpack --config=config/webpack.prod.js"
+    "build": "NODE_ENV=production webpack --config=config/webpack.prod.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [
     "reactjs",
