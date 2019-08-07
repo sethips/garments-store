@@ -1,4 +1,4 @@
-# Garments4Her
+# Garments Store
 Women's Garments Online Store written in React JS
 
 ## Installation
