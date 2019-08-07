@@ -5,10 +5,10 @@ Women's Garments Online Store written in React JS
 
 ## Features Supported
 
-1. Users can sign up and login.
-2. From the provided information while sign up potential matches are displayed.
-3. Users can both send like request and accept others requests.
-4. Both of the above features are supported in real time due to ajax calls.
+1. Users can search for any particular product.
+2. Any number of products can be added to and removed from the cart.
+3. Checkout purchases of products.
+4. Both of the above features are supported in real time.
 
 ## Installation
 
