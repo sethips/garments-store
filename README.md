@@ -1,6 +1,8 @@
 # Garments Store
 Women's Garments Online Store written in React JS
 
+## Demo
+
 ![Demo](demo.png)
 
 ## Features Supported
