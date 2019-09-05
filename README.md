@@ -1,5 +1,5 @@
 # Garments Store
-Women's Garments Online Store written in React JS
+Clothes Online Store written in React JS
 
 ## Demo
 
